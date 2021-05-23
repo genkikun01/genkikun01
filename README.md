@@ -6,12 +6,6 @@ I love programming!!
 Nice to meet you.
 
 ## SNS service I use
-You can find me on those platforms: |
-[YouTube](https://www.youtube.com/channel/UCQ5bxC9pa0tkqEJ2ZqW8OiA/) |
-[Twitter](https://twitter.com/genkikun01) |
-[Qiita](https://qiita.com/genkikun01) |
-[Hatena Blog](https://genkikun01.hateblo.jp) |
-[Home Page](http://xn--w8jeh4xc.ml) |
-[Home Page en](http://genkikun01.ml) |
-[GitHub Pages](https://genkikun01.github.io) |
-Github |
+You can find me on those platforms:  
+|[YouTube](https://www.youtube.com/channel/UCQ5bxC9pa0tkqEJ2ZqW8OiA/)|[Twitter](https://twitter.com/genkikun01)|[Qiita](https://qiita.com/genkikun01)|[GitHub](https://github.com/genkikun01)|[Hatena Blog](https://genkikun01.hateblo.jp)|[Home Page](http://xn--w8jeh4xc.ml)|[Home Page en](http://genkikun01.ml)|[GitHub Pages](https://genkikun01.github.io)|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
