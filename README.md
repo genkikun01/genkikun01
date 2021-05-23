@@ -12,4 +12,6 @@ You can find me on those platforms: |
 [Qiita](https://qiita.com/genkikun01) |
 [Hatena Blog](https://genkikun01.hateblo.jp) |
 [Home Page](http://xn--w8jeh4xc.ml) |
+[English Domain Home Page](http://genkikun01.ml)
+[GitHub Pages](https://genkikun01.github.io) |
 Github |
